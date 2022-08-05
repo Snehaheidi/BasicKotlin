@@ -3,7 +3,7 @@ fun main() {
     val  str :String = "sneha" //Declare the data types is optional
     println("The name is $str")
     //declare the value in val type --> this doesn't change the value
-/*   str = "heidi" --> Throw the error msg change to var
+/*  str = "heidi" --> Throw the error msg change to var
     println("The name is $str")*/
 
     val a = 50

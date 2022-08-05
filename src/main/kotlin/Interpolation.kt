@@ -10,7 +10,7 @@ class Interpolation {
         var length :Float = 0.0f
         var breath:Float= 0.0F
 }
-//OUTPUT :
+//OUTPUT:
 /*
    The Area of the Rectangle 10.2 and 2.2 is 22.44
  */

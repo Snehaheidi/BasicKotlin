@@ -4,9 +4,9 @@ fun main()
     val b = 20
 
 //    if(a>b)
-//       println("A value $a is greater then B ")
+//       println("A value $a is greater than B ")
 //    else
-//        println("B value $b is greater then A")
+//        println("B value $b is greater than A")
     var maxvalue : Int = if(a>b)
         a
     else
@@ -33,9 +33,7 @@ fun main()
                         }
     }
     println(str)
-
 }
-
 //OUTPUT:
 /*
 The Max value is 20
