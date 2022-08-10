@@ -4,7 +4,7 @@ fun main(){
     val a = AreaOfCylinder()
     a.findArea()
 }
-class AreaOfCylinder {
+class AreaOfCylinder{
     val input = Scanner(System.`in`)
     fun findArea(){
         var r = input.nextInt()

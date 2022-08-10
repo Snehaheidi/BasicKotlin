@@ -8,8 +8,8 @@ fun main(){
 class ArmStrongNum {
     val input = Scanner(System.`in`)
     fun findNumber(){
-//        println("Enter the number of Digit in our number: ")
-//        val digit:Int = input.nextInt()
+//      println("Enter the number of Digit in our number: ")
+//      val digit:Int = input.nextInt()
         println("Enter the three-digit number : ")
         val number:Int =input.nextInt()
         var n = number
